@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "xtranet",
+    "slug": "xtranet",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "xtranet"
+}
