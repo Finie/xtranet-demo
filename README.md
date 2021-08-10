@@ -10,7 +10,9 @@ npm install
 # Project Configuration
 
 Open the project go to the App folder on the project root folder
+
 Open the Api folder inside the App folder
+
 Open the client file on line 4 replace the baseUrl i.e http://192.168.0.101 with the ip of the pc running the xtranet-web-service
 
 # Running App
